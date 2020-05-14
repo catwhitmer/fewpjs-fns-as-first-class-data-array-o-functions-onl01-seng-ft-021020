@@ -16,11 +16,12 @@ console.log
   
 function throwFrisbee(dogName, dogBreed) {
   `Throw the frisbee for ${dogName} the ${dogBreed}`;
-  
+  console.log
 }
   
 function walkHome(dogName, dogBreed) {
-  console.log`Walk home with ${dogName} the ${dogBreed}`;
+  `Walk home with ${dogName} the ${dogBreed}`;
+  
 }
   
 function unleashDog(dogName, dogBreed) {
