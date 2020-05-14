@@ -6,3 +6,5 @@ function wakeDog(dogName, dogBreed) {
   console.log(`Walk home with ${dogName} the ${dogBreed}`);
   console.log(`Unleash ${dogName} the ${dogBreed}`);
 }
+
+let routine = dogArray
