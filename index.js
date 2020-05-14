@@ -17,8 +17,9 @@ return walk;
 }
   
 function throwFrisbee(dogName, dogBreed) {
-  `Throw the frisbee for ${dogName} the ${dogBreed}`;
-  console.log
+  let throw = `Throw the frisbee for ${dogName} the ${dogBreed}`;
+  console.log(throw);
+  return throw
 }
   
 function walkHome(dogName, dogBreed) {
