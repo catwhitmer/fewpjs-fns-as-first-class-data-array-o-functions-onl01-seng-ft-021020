@@ -11,9 +11,9 @@ function leashDog(dogName, dogBreed) {
 }
 
 function walkToPark(dogName, dogBreed) {
-let walkTo = `Walk to the park with ${dogName} the ${dogBreed}`;
-console.log(walkTo);
-return walkTo;
+  let walkTo = `Walk to the park with ${dogName} the ${dogBreed}`;
+  console.log(walkTo);
+  return walkTo;
 }
   
 function throwFrisbee(dogName, dogBreed) {
