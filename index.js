@@ -8,3 +8,7 @@ function wakeDog(dogName, dogBreed) {
 }
 
 let routine = dogArray
+
+function exerciseDog() {
+  
+}
