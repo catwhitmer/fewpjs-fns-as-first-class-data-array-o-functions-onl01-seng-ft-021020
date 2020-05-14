@@ -21,11 +21,12 @@ function throwFrisbee(dogName, dogBreed) {
   
 function walkHome(dogName, dogBreed) {
   `Walk home with ${dogName} the ${dogBreed}`;
-  
+  console.log
 }
   
 function unleashDog(dogName, dogBreed) {
   console.log`Unleash ${dogName} the ${dogBreed}`;
+  
 }
 
 let routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashDog];
