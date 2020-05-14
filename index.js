@@ -19,7 +19,7 @@ return walkTo;
 function throwFrisbee(dogName, dogBreed) {
   let throw = `Throw the frisbee for ${dogName} the ${dogBreed}`;
   console.log(throw);
-  return throw
+  return throw;
 }
   
 function walkHome(dogName, dogBreed) {
