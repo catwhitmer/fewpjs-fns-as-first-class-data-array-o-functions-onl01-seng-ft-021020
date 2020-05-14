@@ -17,14 +17,15 @@ function walkToPark(dogName, dogBreed) {
 }
   
 function throwFrisbee(dogName, dogBreed) {
-  let throw = `Throw the frisbee for ${dogName} the ${dogBreed}`;
-  console.log(throw);
-  return throw;
+  let frisbee = `Throw the frisbee for ${dogName} the ${dogBreed}`;
+  console.log(frisbee);
+  return frisbee;
 }
   
 function walkHome(dogName, dogBreed) {
-  `Walk home with ${dogName} the ${dogBreed}`;
-  console.log
+  let walk = `Walk home with ${dogName} the ${dogBreed}`;
+  console.log(walk);
+  return walk;
 }
   
 function unleashDog(dogName, dogBreed) {
